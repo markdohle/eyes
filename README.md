@@ -2,7 +2,7 @@
 
 ## Description
 
-This program code uses an [event](https://www.w3schools.com/jsref/event_clientx.asp) to track the movement of the mouse.
+This program code uses an [event](https://www.w3schools.com/jsref/event_clientx.asp) to track the movement of the mouse. The eyes are created using [CSS shapes](https://www.w3schools.com/howto/howto_css_shapes.asp).
 
 This repository uses the solution file from week 8 of the MIT xPro Professional Certificate in Coding: Full Stack Development with MERN - April 2022
 
